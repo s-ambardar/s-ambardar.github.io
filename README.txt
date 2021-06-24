@@ -1,12 +1,10 @@
 Surya Ambardar Portfolio Website 
 
-Hi! I'm Surya, a third year student at UVA studying machine learning and biology. I created this website in September and October 2020 to practice web development skills and showcase my accomplishments. 
+Hi! I'm Surya, a third year student at UVA studying machine learning and biology. I created this website in September  2020 to practice web development skills and showcase my accomplishments. 
 
 Design Template: Hyperspace by HTML5 UP
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 Credits:
-	Demo Images:
-		Unsplash (unsplash.com)
 	Icons:
 		Font Awesome (fontawesome.io)
 	Other:
